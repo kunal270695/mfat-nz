@@ -1,6 +1,6 @@
 # mfat-nz
 
-Scenario:
+**Scenario**
 
 You work as an analyst at a research center called DataTell. DataTell has three offices across New Zealand, with headquarters located in Auckland. Currently, there are 45 analysts working at DataTell. Seven of those analysts are senior analysts, including you.
 
@@ -14,4 +14,6 @@ In July 2023, the Ministry of Foreign Affairs & Trade (MFAT) created an opportun
 
 
 **Data-Analytics-R2** is the main document which consists of all the analysis and information. 
+
+
       
